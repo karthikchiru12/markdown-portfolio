@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+### My Hobbies :
+1. I like reading books
+2. Playing games
+3. Experimenting with stuff
